@@ -4,7 +4,7 @@ Engineers often want to use the least amount of material possible in designing t
 
 We can reduce the thickness of our material layers by changing:
 1. The order we stack the materials in, for example (A on top of B) or (B on top of A)
-2. By changing the stacking angle, for example, it is easier to break two layer stacked perfectly on each other or criss-cross on top of each other?
+2. By changing the stacking angle, for example, it is easier to break two layers stacked perfectly on each other or criss-cross on top of each other?
 
 These MATLAB codes use the Tsai-Hill theory to calculate when composites will break under certain loading conditions using different stacking angles and stacking orders. The codes were written as a part of a Composite Materials and Design course.
 
